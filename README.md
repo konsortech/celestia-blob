@@ -36,7 +36,7 @@ npm install express
 ```
 
 ```bash
-git clone https://github.com/Dexanode/celestia-blob
+git clone https://github.com/konsortech/celestia-blob
 ``` 
 
 ```bash
